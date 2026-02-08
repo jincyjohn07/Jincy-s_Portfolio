@@ -49,13 +49,11 @@ To make insights easy to understand, the project includes multiple visualization
 
 ### Dashboards & Screenshots
 
-#### 🔹 Power BI Dashboard
-![Power BI Dashboard](images/Pizza_Excel_Dashboard.png)
-
-🔗 **Live Dashboard Link:**  
-[View Power BI Dashboard](https://app.powerbi.com/your-dashboard-link)
-
+#### 🔹 Excel Dashboard
+![Excel Dashboard](images/Pizza_Excel_Dashboard.png)
 ---
+#### Power BI Dashboard
+![Power BI Dashboard](images/Pizza_KPIs.png)(images/Pizza_Charts.png)
 
 #### 🔹 Tableau Dashboard
 ![Tableau Dashboard](images/tableau_dashboard.png)
