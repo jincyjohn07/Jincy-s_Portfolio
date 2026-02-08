@@ -60,14 +60,23 @@ To make insights easy to understand, the project includes multiple visualization
 ---
 
 ### 📂 Project Files & Code
-- **SQL Queries:** [SQL Scripts](sql/)
-- **Python Notebooks:** [Python Analysis](python/)
-- **Excel Files:** [Excel Data](excel/)
-- **Power BI File:** [PBIX File](powerbi/)
-- **Tableau Workbook:** [Tableau File](tableau/)
+### 📂 Project Files & Code
+
+- **SQL Queries:**
+  - [KPI Queries](SQL/KPIs.sql)
+  - [Charts Queries](SQL/Charts.sql)
+- **Python Notebooks:** [Python Analysis](Python/pizza_sales_project.ipynb)
+- **Excel Files:** [Excel Data](Excel/Excel_pizza_dashboard.xlsx)
+- **Power BI File:** [PBIX File](PowerBI/Pizza_sales_report.pbix)
+- **Tableau Workbook:** [Tableau File](Tableau/Pizza_tableu_dashboard.twb)
 
 ---
+### SQL Queries Documentation and Outputs
 
+#### 🔹 SQL Queries Used in Data Analysis
+[Pizza SQL Queries Documentation](SQL/Pizza%20SQL%20Queries%20Documentation.docx)
+
+---
 ### Business Impact
 This project helps stakeholders:
 - Gain a clear understanding of sales performance  
