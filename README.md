@@ -57,13 +57,6 @@ To make insights easy to understand, the project includes multiple visualization
 ![Power BI KPIs](images/Pizza_Sales_KPIs.png)  
 ![Power BI Charts](images/Pizza_Sales_Charts.png)
 
-
-#### 🔹 Tableau Dashboard
-![Tableau Dashboard](images/tableau_dashboard.png)
-
-🔗 **Live Dashboard Link:**  
-[View Tableau Dashboard](https://public.tableau.com/your-dashboard-link)
-
 ---
 
 ### 📂 Project Files & Code
