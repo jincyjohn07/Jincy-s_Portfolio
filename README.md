@@ -53,7 +53,8 @@ To make insights easy to understand, the project includes multiple visualization
 ![Excel Dashboard](images/Pizza_Excel_Dashboard.png)
 ---
 #### Power BI Dashboard
-![Power BI Dashboard](images/Pizza_KPIs.png)(images/Pizza_Charts.png)
+![Power BI KPIs(images/Pizza_Sales_KPIs.png))
+![Power BI Requirements(images/Pizza_Sales_Charts.png))
 
 #### 🔹 Tableau Dashboard
 ![Tableau Dashboard](images/tableau_dashboard.png)
