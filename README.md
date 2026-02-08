@@ -26,6 +26,14 @@ The following tools and technologies were used to build this project:
 
 ---
 
+### 📂 Dataset Used
+
+- **Raw Dataset:** [Pizza Sales Dataset](Dataset/pizza_sales.csv)
+
+This dataset contains raw pizza sales data used for KPI calculation, analysis, and dashboard creation.
+
+---
+
 ### Key Performance Indicators (KPIs)
 The following KPIs are calculated to measure business performance:
 
@@ -60,8 +68,8 @@ To make insights easy to understand, the project includes multiple visualization
 ---
 
 ### 📂 Project Files & Code
-### 📂 Project Files & Code
 
+- **Dataset:** [Raw Data](Dataset/pizza_sales.csv)
 - **SQL Queries:**
   - [KPI Queries](SQL/KPIs.sql)
   - [Charts Queries](SQL/Charts.sql)
