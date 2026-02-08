@@ -50,7 +50,7 @@ To make insights easy to understand, the project includes multiple visualization
 ### Dashboards & Screenshots
 
 #### 🔹 Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](images/Pizza_Excel_Dashboard.png)
 
 🔗 **Live Dashboard Link:**  
 [View Power BI Dashboard](https://app.powerbi.com/your-dashboard-link)
