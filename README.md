@@ -1,8 +1,7 @@
-## 🍕 Pizza Sales Data Analytics Project
+# 🍕 Pizza Sales Data Analytics Project
+_End-to-End Sales Analysis using SQL, Python, Excel, Power BI, and Tableau_
 
-This project is an **end-to-end data analytics project** designed to analyze pizza sales data and evaluate overall business performance. The main goal of the project is to convert raw sales data into **clear, meaningful insights** that support better business decision-making.
-
-The analysis focuses on understanding revenue, customer ordering behavior, and product performance through key performance indicators (KPIs) and visual reports.
+This project analyzes pizza sales data to track KPIs, identify customer preferences, and evaluate product performance through interactive dashboards.
 
 ---
 
